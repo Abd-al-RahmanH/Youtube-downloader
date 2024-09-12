@@ -12,6 +12,6 @@ def download_video(video_url, download_path):
         ydl.download([video_url])
 
 # Replace this with the URL of the single video you want to download
-video_url = 'https://www.youtube.com/watch?v=OoHPhLV43gg'
-download_path = 'E:/Data_Engineer '
+video_url = 'https://youtu.be/7prd-nSw-IU?si=-2FXTlnyqPkrGWQY'
+download_path = 'E:/Yt_single_videos'
 download_video(video_url, download_path)
