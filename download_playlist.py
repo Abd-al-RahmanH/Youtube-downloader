@@ -12,5 +12,5 @@ def download_playlist(playlist_url, download_path):
         ydl.download([playlist_url])
 
 playlist_url = 'https://youtube.com/playlist?list=PL0igoq7HFDfC2JzFko58G1cXETcYKq9Mu&si=NDXZzz_1mncgcq7B'
-download_path = 'E:\\Data_Engineer\\islamicvid'
+download_path = 'E:\\yt_playlist\\1'
 download_playlist(playlist_url, download_path)
