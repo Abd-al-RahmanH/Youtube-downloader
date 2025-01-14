@@ -9,7 +9,7 @@ This repository contains two separate Python programs for downloading YouTube co
 
 Both programs use the `yt-dlp` library to handle the downloading process.
 
-## Prerequisites
+## Prerequisites :
 
 Ensure you have Python installed on your system. You also need to install the `yt-dlp` library. You can install it using pip:
 
