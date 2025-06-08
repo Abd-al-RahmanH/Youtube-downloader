@@ -1,4 +1,4 @@
-# YouTube Downloader By Abdul Rahman:
+# YouTube Downloader By Abdul Rahman
 
 ## Feel free to give STAR ⭐
 
