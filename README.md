@@ -1,6 +1,6 @@
 # YouTube Downloader By Abdul Rahman 
 
-## Feel free to give STAR ⭐.
+## Feel free to give STAR ⭐
 
 This repository contains two separate Python programs for downloading YouTube content:
 
